@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="access-entity">
+    <Basepaths>/v1/access-entity</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1626855838072</CreatedAt>
+    <CreatedBy>vaishali.shivalaya@gmail.com</CreatedBy>
+    <Description>access-entity</Description>
+    <DisplayName>access-entity</DisplayName>
+    <LastModifiedAt>1626857235944</LastModifiedAt>
+    <LastModifiedBy>vaishali.shivalaya@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:829fc0b1a73c1690cfa6ff062f7ebac8cd7435a420438577215adc4dba15e564a9446d4182d945ebf053a085b857825c0c4ad99a506d3077897b0c76a7d98706:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>Access-Control-test</Policy>
+        <Policy>Access-Entity-test</Policy>
+        <Policy>EchoVariables</Policy>
+        <Policy>GetDeveloperProfile</Policy>
+        <Policy>SetDeveloperProfile</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

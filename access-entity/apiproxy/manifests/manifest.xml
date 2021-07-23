@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Access-Control-test" version="SHA-512:1cd7e5a3955096be556facf9adb52c6bc11c77f5ddfb56bda4acc65f71b55ca2ce6c703ff455d74659dbaad5f291a54b22fa3456c05f03d241b238547c8ec28b"/>
+        <VersionInfo resourceName="Access-Entity-test" version="SHA-512:dc38e6baa248d74998ac2062390931d877c067a15ffbfedfa0320bab7fd8904ad0bd1a80bfc21b559367f3643c8abdc36897f919c29c8a61fb875f6cd619bfbd"/>
+        <VersionInfo resourceName="EchoVariables" version="SHA-512:47b7f60516fc206cdd6e33290da0f8abdb1b3f51d005a33db0831bd4c9da5728d362e4fc8d354737d99c85c43cdbe035aa5172902339cb4870e514b8913371bc"/>
+        <VersionInfo resourceName="GetDeveloperProfile" version="SHA-512:f8d083e70d2435983da69ad288e4c068222128eff8ec3bb5a5845b8712305eb4a5553628499d778b115f04d6746d3cd42ab9e10c7b2cbc0e849abfb8ad5b578c"/>
+        <VersionInfo resourceName="SetDeveloperProfile" version="SHA-512:f1b72e9d49c25fc19193a8c657957ba89ff509564891b6a654000ccec70aba7cde79b26c766dd6662bb6cbdf7f6274f1d2eeb45e5932ac4fbb7e8b542d29615e"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:d7920128989c4867311664a4bc712b6faa2c41a06c9fd7747575c20758812da97b6812b2ba90a72891f1af6b678ed9f05c21ddab52d1b7d8e4fbec64ebabb4f7"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
